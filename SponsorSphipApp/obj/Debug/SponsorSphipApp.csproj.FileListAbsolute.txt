@@ -1,0 +1,16 @@
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\bin\Debug\SponsorSphipApp.exe.config
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\bin\Debug\SponsorSphipApp.exe
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\bin\Debug\SponsorSphipApp.pdb
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.csproj.AssemblyReference.cache
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.MainApp.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Properties.Resources.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Views.SplashScreen.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.csproj.GenerateResource.cache
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.csproj.CoreCompileInputs.cache
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.exe
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.pdb
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Views.ListMembers.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Views.SponsorShipEvent.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Views.Filleuls.resources
+C:\Users\Mr_shadow\source\repos\SponsorSphipApp\SponsorSphipApp\obj\Debug\SponsorSphipApp.Views.Parrains.resources

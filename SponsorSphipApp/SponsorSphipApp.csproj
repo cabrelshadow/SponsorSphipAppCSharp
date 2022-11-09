@@ -46,14 +46,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="MainApp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainApp.Designer.cs">
+      <DependentUpon>MainApp.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SponsorsphipAppDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SponsorsphipAppDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Filleuls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Filleuls.Designer.cs">
+      <DependentUpon>Filleuls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Db\DbConnect.cs" />
+    <Compile Include="Views\ListMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ListMembers.Designer.cs">
+      <DependentUpon>ListMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Parrains.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Parrains.Designer.cs">
+      <DependentUpon>Parrains.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SponsorShipEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\SponsorShipEvent.Designer.cs">
+      <DependentUpon>SponsorShipEvent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainApp.resx">
+      <DependentUpon>MainApp.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +102,21 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Views\Filleuls.resx">
+      <DependentUpon>Filleuls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ListMembers.resx">
+      <DependentUpon>ListMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Parrains.resx">
+      <DependentUpon>Parrains.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SponsorShipEvent.resx">
+      <DependentUpon>SponsorShipEvent.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -72,6 +126,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="SponsorsphipAppDataSet.xsc">
+      <DependentUpon>SponsorsphipAppDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SponsorsphipAppDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SponsorsphipAppDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SponsorsphipAppDataSet.xss">
+      <DependentUpon>SponsorsphipAppDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
